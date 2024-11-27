@@ -1,2 +1,2 @@
 # practical-statistics-for-data-scientists
- My data scienci study
+ My data science study
